@@ -1,0 +1,10 @@
+.calc-btn{
+	height:4rem;
+	padding: 1rem 0;
+	display: block;
+	align-items: center;
+}
+
+.h100{
+	height: 100vh;
+}
